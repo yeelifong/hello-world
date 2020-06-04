@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi hoomans!
+
+Peepeepoopoo.
+I love coffee and spicy food.
